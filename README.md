@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# ✅ Boas-vindas ao meu GitHub! É bom ter você por aqui.
+## ✅ Boas-vindas ao meu GitHub! É bom ter você por aqui.
 
   <div id="badges">
    <a href = "https://linkedin.com/in/FelipeManchester">

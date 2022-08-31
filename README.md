@@ -6,7 +6,7 @@
    </a>
   </div>
 
-Sou estudante de programação, atualmente me encontro em transição de carreira. Possuo 10 anos de experiência profissional na área de vendas.
+Sou estudante de programação, atualmente me encontro em transição de carreira. Possuo dez anos de experiência profissional na área de vendas.
 
 - 🚀 Estudante de front-end
 - 👩‍💻 Atualmente estou estudando sobre React.js

@@ -8,7 +8,7 @@
 
 Sou estudante de programação, atualmente me encontro em transição de carreira. Possuo dez anos de experiência profissional na área de vendas.
 
-- 🚀 Estudante de front-end
+- 🚀 Desenvolvedor front-end
 - 👩‍💻 Atualmente estou estudando sobre React.js
 
 <div>

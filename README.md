@@ -1,5 +1,5 @@
 # 😀 Sobre mim:
-Desenvolvedor front-end altamente motivado e apaixonado por tecnologia, focado em resolver problemas e em entregar projetos no prazo, com atenção aos detalhes e ao design. Busco constantemente aprimorar minhas habilidades e aprender novas tecnologias. Possuo experiência de dez anos no setor farmacêutico, tendo passagem por duas drogarias de grande porte, atualmente estou em transição de carreira e quero trabalhar com tecnologia e programação.
+Desenvolvedor front-end altamente motivado e apaixonado por tecnologia, focado em resolver problemas e em entregar projetos no prazo, com atenção aos detalhes e ao design. Busco constantemente aprimorar minhas habilidades e aprender novas tecnologias. 
 
 
 ## 🌐 Socials:

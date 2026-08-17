@@ -1,5 +1,15 @@
 # Sobre mim:
-Desenvolvedor front-end altamente motivado e apaixonado por tecnologia, focado em resolver problemas e em entregar projetos no prazo, com atenção aos detalhes e ao design. Busco constantemente aprimorar minhas habilidades e aprender novas tecnologias. 
+Desenvolvedor Full Stack com foco em Front-End | React • Next.js • TypeScript • Node.js • JavaScript • PHP • HTML • CSS • Tailwind CSS • WordPress • APIs REST • SQL • Firebase • Supabase
+
+Desenvolvo aplicações web completas, com especialização na criação de interfaces modernas, responsivas e performáticas, atuando também no desenvolvimento de APIs, integrações e serviços back-end.
+No front-end, trabalho com React, Next.js, TypeScript e JavaScript (ES6+), aplicando boas práticas de componentização, arquitetura e acessibilidade para construir aplicações escaláveis e de fácil manutenção.
+
+No back-end, utilizo Node.js, SQL e Firebase para desenvolver integrações, consumir e criar APIs REST e conectar aplicações a diferentes serviços e bancos de dados.
+Também possuo sólida experiência com WordPress, incluindo desenvolvimento e customização de temas, PHP, Custom Post Types, hooks, filtros, WordPress REST API e Elementor quando necessário.
+
+Atuo em projetos em produção utilizando Git/GitHub, otimização de performance (Core Web Vitals), SEO técnico, responsividade e boas práticas de arquitetura, sempre buscando entregar soluções robustas, escaláveis e de alta qualidade.
+
+Acesse meu portfólio: https://felipemanchester.vercel.app
 
 
 ## 🌐 Socials:

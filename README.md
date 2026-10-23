@@ -9,7 +9,7 @@ Também possuo sólida experiência com WordPress, incluindo desenvolvimento e c
 
 Atuo em projetos em produção utilizando Git/GitHub, otimização de performance (Core Web Vitals), SEO técnico, responsividade e boas práticas de arquitetura, sempre buscando entregar soluções robustas, escaláveis e de alta qualidade.
 
-Acesse meu portfólio: https://felipemanchester.vercel.app
+Acesse meu portfólio: https://felipemanchester.dev
 
 
 ## 🌐 Socials:
